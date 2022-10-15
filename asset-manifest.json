@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employee_list_with_React/static/css/main.f9926a1c.css",
+    "main.js": "/employee_list_with_React/static/js/main.875476a3.js",
+    "static/js/787.6adb1dd9.chunk.js": "/employee_list_with_React/static/js/787.6adb1dd9.chunk.js",
+    "index.html": "/employee_list_with_React/index.html",
+    "main.f9926a1c.css.map": "/employee_list_with_React/static/css/main.f9926a1c.css.map",
+    "main.875476a3.js.map": "/employee_list_with_React/static/js/main.875476a3.js.map",
+    "787.6adb1dd9.chunk.js.map": "/employee_list_with_React/static/js/787.6adb1dd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9926a1c.css",
+    "static/js/main.875476a3.js"
+  ]
+}
