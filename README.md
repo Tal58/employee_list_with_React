@@ -54,7 +54,7 @@ Build a Employee App using ReactJS.
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-🔗 To see live version 🎯https://tal58.github.io/to_do_withReact/
+🔗 To see live version 🎯https://tal58.github.io/employee_list_with_React/
 
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
