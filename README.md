@@ -48,7 +48,7 @@ Build a Employee App using ReactJS.
 
 - Sass
 
-### At the end of the project, students will be able to;
+### At the end of the project;
 
 - improve coding skills within HTML & CSS & JS & ReactJS.
 
